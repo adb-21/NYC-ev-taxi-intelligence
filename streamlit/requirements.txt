@@ -1,0 +1,18 @@
+# Streamlit dashboard dependencies
+# Install via: pip install -r requirements.txt
+
+# Dashboard framework
+streamlit>=1.33.0
+
+# Map rendering
+pydeck>=0.8.0
+
+# API calls (Driver Simulator page)
+requests>=2.31.0
+
+# Spatial
+h3>=3.7.0,<4.0.0
+
+# Data loading
+pandas>=1.5.0
+pyarrow>=10.0.0

@@ -1,0 +1,9 @@
+# Data files (too large for GitHub)
+data/**/*.parquet
+data/**/part-*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/

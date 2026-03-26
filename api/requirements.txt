@@ -1,0 +1,16 @@
+# FastAPI serving layer dependencies
+# Install via: pip install -r requirements.txt
+
+# API framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# Data validation / response models
+pydantic>=2.0.0
+
+# Spatial
+h3>=3.7.0,<4.0.0
+
+# Data loading
+pandas>=1.5.0
+pyarrow>=10.0.0

@@ -1,0 +1,23 @@
+# Databricks notebook dependencies
+# Install via: %pip install -r requirements.txt
+# Or install individually at the top of each notebook
+
+# Spatial indexing
+h3<4
+
+# Geospatial processing (build_h3_mapping.py)
+geopandas
+shapely
+
+# ML
+xgboost
+
+# Weather ingestion (Weather_ingestion.py)
+openmeteo-requests
+requests-cache
+retry-requests
+requests
+
+# Data processing (available in Databricks runtime but pinned for consistency)
+pandas>=1.5.0
+pyarrow>=10.0.0
