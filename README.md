@@ -1,6 +1,6 @@
 # NYC EV Taxi Intelligence - Adaptive Fleet Orchestration Platform
 
-> **Phase 2** of the NYC Taxi Analytics project. Phase 1 (Lakehouse → Snowflake → Power BI) → [nyc-taxi-analytics](https://github.com/yourusername/nyc-taxi-analytics)
+> **Phase 2** of the NYC Taxi Analytics project. Phase 1 (Lakehouse → Snowflake → Power BI) → [nyc-taxi-analytics](https://github.com/adb-21/NYC-taxi-analysis)
 
 ---
 
